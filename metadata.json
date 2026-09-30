@@ -1,0 +1,6 @@
+{
+  "name": "Bio-Analytical Suite",
+  "description": "A browser-based molecular docking research workstation for computational chemistry, binding-site analysis, ligand screening, and interaction analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
